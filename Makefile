@@ -1,5 +1,5 @@
 CC=gcc
-
+# output
 CFLAGS=-g -Wall -Werror -Wextra -pedantic
 
 SDL_FLAGS=-I/usr/local/include/SDL2 -L/usr/lib/x86_64-linux-gnu -lSDL2 -lm
