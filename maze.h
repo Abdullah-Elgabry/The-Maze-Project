@@ -7,8 +7,9 @@
 #include <unistd.h>
 #include <fcntl.h>
 #include <stdlib.h>
-#include <string.h>
 #include <ctype.h>
+#include <string.h>
+
 
 #define SCREEN_HEIGHT 768
 #define SCREEN_WIDTH 1024
