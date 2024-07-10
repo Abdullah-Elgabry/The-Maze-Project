@@ -62,4 +62,5 @@ This project is licensed under the MIT License
 ## Screenshot
 ![Alt text](./images/demo.png)
 
-## By sharing my story and the technical details behind The Maze Project, I hope to provide a deeper understanding of the project and my journey in creating it. I believe that through this project, I have demonstrated not just my technical skills, but also my passion for continuous learning and problem-solving. Thank you for taking the time to explore The Maze Project!
+
+## By sharing my story and the technical details behind The Maze Project, I hope to provide a deeper understanding of the project and my journey in creating it. I believe that through this project, I have demonstrated not just my technical skills, but also my passion for continuous learning and problem-solving.. Thank you for taking the time to explore The Maze Project!
